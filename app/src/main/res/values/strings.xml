@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_Uts_Alwi</string>
+    <string name="penjumlahan">Penjumlahan</string>
+    <string name="pengurangan">Pengurangan</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="identitas">Identitas</string>
+    
+    <string name="angka1"> Masukan Angka </string>
+
+</resources>
